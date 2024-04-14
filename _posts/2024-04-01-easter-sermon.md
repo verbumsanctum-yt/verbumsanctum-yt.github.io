@@ -1,9 +1,10 @@
 ---
 title: Easter Sermon 2024
-tags: Easter, Sermon
+tags: Easter Sermon
+author: jim
 ---
 
-### You will find the transcript of the 2024 Easter Sermon below
+### 2024 Easter Sermon Transcript
 
 ---
 

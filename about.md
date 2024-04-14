@@ -2,13 +2,16 @@
 layout: article
 titles:
   en      : &EN       About
-  en-GB   : *EN
-  en-US   : *EN
-  en-CA   : *EN
-  en-AU   : *EN
+  en-GB   : *EN       About
+  en-US   : *EN       About
+  en-CA   : *EN       Aboot
+  en-AU   : *EN       About
 key: page-about
 ---
 
+<div>
+  <h1>Our Team</h1>
+</div>
 {% for author in site.data.authors %}
 <div class="author-profile">
   <h2>{{ author[1].name }}</h2>
