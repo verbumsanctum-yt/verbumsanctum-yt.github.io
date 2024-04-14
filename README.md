@@ -1,3 +1,3 @@
-# verbumsanctum.github.io
+# VerbumSanctum.com
 
 The home page of Verbum Sanctum.
