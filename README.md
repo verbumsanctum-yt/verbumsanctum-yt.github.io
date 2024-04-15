@@ -1,6 +1,7 @@
 # Verbum Sanctum 🕊️
 
-[![Deploy Jekyll site to Pages](https://github.com/verbumsanctum-yt/verbumsanctum-yt.github.io/actions/workflows/jekyll.yml/badge.svg?branch=main)](https://github.com/verbumsanctum-yt/verbumsanctum-yt.github.io/actions/workflows/jekyll.yml)
+[![Deploy Jekyll site to Pages](https://github.com/verbumsanctum-yt/verbumsanctum-yt.github.io/actions/workflows/jekyll.yml/badge.svg?branch=main)](https://github.com/verbumsanctum-yt/verbumsanctum-yt.github.io/actions/workflows/jekyll.yml) [![CodeQL](https://github.com/verbumsanctum-yt/verbumsanctum-yt.github.io/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/verbumsanctum-yt/verbumsanctum-yt.github.io/actions/workflows/github-code-scanning/codeql)
+
 Welcome to the GitHub repository for Verbum Sanctum, a Christian platform dedicated to spreading the word of God through digital sermons and teachings.
 
 ## About This Project 📖
