@@ -33,3 +33,4 @@ As we commemorate the Feast of Saint George, let us draw inspiration from his co
 ---
 
 In conclusion, may the celebration of Saint George's Day kindle in our hearts a renewed zeal for our faith, a deeper commitment to living out the Gospel, and the courage to face the dragons of our day with the assurance of Christ's victory. Saint George, pray for us, that we may be faithful soldiers and servants of Christ, to the glory of God the Father. Amen.
+
