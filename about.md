@@ -20,6 +20,7 @@ Website: [{{ author[1].website }}]({{ author[1].website }}){:target="_blank"}
 * {: .social-link if author[1].github }[GitHub](https://github.com/{{ author[1].github }})
 * {: .social-link if author[1].linkedin }[LinkedIn](https://linkedin.com/in/{{ author[1].linkedin }})
 * {: .social-link if author[1].instagram }[Instagram](https://instagram.com/{{ author[1].instagram }})
+* {: .social-link if author[1].youtube }[YouTube](https://youtube.com/@{{ author[1].youtube }})
 
 ### Cryptocurrencies
 
